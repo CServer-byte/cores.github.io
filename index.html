@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <video src="Testing/something/Tests/Quatsch/youtubeDownloader/video_path/Never Gonna Give You Up.mp4"></video>
+    <video src="/1028.mp4"></video>
     <h1>Ein Fehler ist aufgetreten!</h1>
     <button onclick="btnClick()">Erneut initialisieren</button>
     <style>
